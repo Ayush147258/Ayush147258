@@ -4,7 +4,7 @@
 
 ### `AI/ML Developer · Full-Stack Engineer · Builder`
 
-*B.Tech CSE @ AIMT Lucknow · Class of 2028*
+*B.Tech CSE · Class of 2028*
 
 [![Email](https://img.shields.io/badge/Email-ayush712145%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayush712145@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-2452a2346)
